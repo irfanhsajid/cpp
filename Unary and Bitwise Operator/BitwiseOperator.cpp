@@ -18,11 +18,11 @@ int main()
     c = a ^ b;
     cout << c << endl;
 
-    //right shift
-    c= a>>3;
-    cout << c <<endl;
+    // right shift
+    c = a >> 3;
+    cout << c << endl;
 
-    //left-shift
+    // left-shift
     c = a << 3;
     cout << c << endl;
 }
