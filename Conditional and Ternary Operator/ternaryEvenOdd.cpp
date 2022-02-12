@@ -1,15 +1,16 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int main()
+{
 
-int num;
+    int num;
 
-cout << "Enter any Number : ";
+    cout << "Enter any Number : ";
 
-cin >> num;
+    cin >> num;
 
-(num%2==0) ? cout <<num << " is even" : cout <<num << " is odd";
+    (num%2==0) ? cout <<num << " is even" : cout <<num << " is odd";
 
 
 }
