@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1644857289 source:/home/irfan/Programming Languages/C++/OOP/MyFirstProject/main.cpp
+	<iostream>
+	"myfirstclass.h"
+
+1644858983 /home/irfan/Programming Languages/C++/OOP/MyFirstProject/myfirstclass.h
+	"myfirstclass.h"
+
+1644858865 source:/home/irfan/Programming Languages/C++/OOP/MyFirstProject/myfirstclass.cpp
+	"myfirstclass.h"
+	<iostream>
+

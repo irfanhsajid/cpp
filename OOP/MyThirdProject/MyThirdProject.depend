@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644862819 source:/home/irfan/Programming Languages/C++/OOP/MyThirdProject/main.cpp
+	<iostream>
+	"mythirdclass.h"
+
+1644862628 /home/irfan/Programming Languages/C++/OOP/MyThirdProject/mythirdclass.h
+
