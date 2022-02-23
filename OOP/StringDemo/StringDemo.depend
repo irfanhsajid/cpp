@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644907701 source:/home/irfan/Programming Languages/C++/OOP/StringDemo/main.cpp
+	<iostream>
+	<cstring>
+

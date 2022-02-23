@@ -1,0 +1,3 @@
+I am Irfanul Haque Sajid,
+ I am trying to read text from this document by using file in cpp.
+ 
