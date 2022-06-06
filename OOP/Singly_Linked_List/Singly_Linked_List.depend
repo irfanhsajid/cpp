@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1648024346 source:/home/irfan/Programming Languages/C++/OOP/Singly_Linked_List/node.cpp
+	"node.h"
+	<bits/stdc++.h>
+
+1648022059 /home/irfan/Programming Languages/C++/OOP/Singly_Linked_List/node.h
+
+1648024481 source:/home/irfan/Programming Languages/C++/OOP/Singly_Linked_List/main.cpp
+	<iostream>
+	"singlylist.h"
+
+1648024194 /home/irfan/Programming Languages/C++/OOP/Singly_Linked_List/singlylist.h
+	"node.h"
+
+1648024518 source:/home/irfan/Programming Languages/C++/OOP/Singly_Linked_List/singlylist.cpp
+	"singlylist.h"
+	"node.h"
+	<bits/stdc++.h>
+
